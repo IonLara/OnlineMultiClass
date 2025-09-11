@@ -1,16 +1,29 @@
 using UnityEngine;
+using Fusion;
 
-public class PlayerMoveHard : MonoBehaviour
+public class PlayerMoveHard : NetworkBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private CharacterController controller;
+    public float speed = 2f;
+
+    private void Awake()
     {
-        
+        gameObject.TryGetComponent(out controller);
     }
 
-    // Update is called once per frame
-    void Update()
+    public override void FixedUpdateNetwork()
     {
-        
+        if (GetInput<MyInput>(out var inputs) == false) { return; }
+
+        Debug.Log("INPUT GUT");
+
+        Vector3 vector = new Vector3();
+
+        if (inputs.buttons.IsSet(MyButtons.Forward)) { vector.z += 1; }
+        if (inputs.buttons.IsSet(MyButtons.Backward)) { vector.z -= 1; }
+        if (inputs.buttons.IsSet(MyButtons.Left)) { vector.x -= 1; }
+        if (inputs.buttons.IsSet(MyButtons.Right)) { vector.x += 1; }
+
+        controller.Move(vector * speed * Runner.DeltaTime);
     }
 }

@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 8783373956172972296}
   - component: {fileID: 3668541019578865071}
   - component: {fileID: 344985564147966170}
-  - component: {fileID: 830937801965479604}
   - component: {fileID: 7710850774470603002}
   - component: {fileID: 5415362429695339215}
+  - component: {fileID: -7521300906797104553}
+  - component: {fileID: -2107691814784813182}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -131,22 +132,10 @@ MonoBehaviour:
   Flags: 262145
   NestedObjects: []
   NetworkedBehaviours:
-  - {fileID: 830937801965479604}
   - {fileID: 5415362429695339215}
+  - {fileID: -7521300906797104553}
+  - {fileID: -2107691814784813182}
   ForceRemoteRenderTimeframe: 0
---- !u!114 &830937801965479604
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2638944749852211283}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a27e9e09765706418f3a4643e0b9468, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerSpeed: 2
 --- !u!143 &7710850774470603002
 CharacterController:
   m_ObjectHideFlags: 0
@@ -189,3 +178,29 @@ MonoBehaviour:
   SyncParent: 0
   _autoAOIOverride: 1
   DisableSharedModeInterpolation: 0
+--- !u!114 &-7521300906797104553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2638944749852211283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f01e21a19c9016448a3bb1f9db6c532f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+--- !u!114 &-2107691814784813182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2638944749852211283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0468080c4d6f0c9449ff429791be8566, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _NetworkColor: {r: 0, g: 0, b: 0, a: 0}

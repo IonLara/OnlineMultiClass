@@ -1,0 +1,1 @@
+{"Guid":"d1eb243f-ab05-4db5-a2b7-18aa61e7080f","Data":{"rid":1000},"references":{"version":2,"RefIds":[{"rid":1000,"type":{"class":"FusionMppmRegisterCustomDependencyCommand","ns":"Fusion","asm":"Fusion.Unity"},"data":{"DependencyName":"Fusion.PrefabsDependency","Hash":"f689db536f248721053d612d19a3d0d0"}}]}}
