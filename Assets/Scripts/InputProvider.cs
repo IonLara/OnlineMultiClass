@@ -28,7 +28,7 @@ public class InputProvider : SimulationBehaviour, INetworkRunnerCallbacks
 
     private void OnDisable()
     {
-        Runner.RemoveCallbacks(this);
+        if (Runner != null) { Runner.RemoveCallbacks(this); }
     }
 
     private void Initialize()

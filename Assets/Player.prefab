@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7710850774470603002}
   - component: {fileID: 5415362429695339215}
   - component: {fileID: -7521300906797104553}
-  - component: {fileID: -2107691814784813182}
+  - component: {fileID: 6733636827616286737}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -134,7 +134,7 @@ MonoBehaviour:
   NetworkedBehaviours:
   - {fileID: 5415362429695339215}
   - {fileID: -7521300906797104553}
-  - {fileID: -2107691814784813182}
+  - {fileID: 6733636827616286737}
   ForceRemoteRenderTimeframe: 0
 --- !u!143 &7710850774470603002
 CharacterController:
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
---- !u!114 &-2107691814784813182
+--- !u!114 &6733636827616286737
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -203,4 +203,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0468080c4d6f0c9449ff429791be8566, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _NetworkColor: {r: 0, g: 0, b: 0, a: 0}
+  _color: {r: 0, g: 0, b: 0, a: 0}

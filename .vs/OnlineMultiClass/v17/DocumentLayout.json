@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|c:\\users\\alumnos\\documents\\onlinemulticlass\\assets\\scripts\\inputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|c:\\users\\alumnos\\documents\\onlinemulticlass\\assets\\scripts\\colornetworked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colornetworked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|c:\\users\\alumnos\\documents\\onlinemulticlass\\assets\\scripts\\hellorpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hellorpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\assets\\scripts\\inputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|c:\\users\\alumnos\\documents\\onlinemulticlass\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|c:\\users\\alumnos\\documents\\onlinemulticlass\\assets\\scripts\\playermovehard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D74C3E-CA51-9779-7E4E-2EA430F15F73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovehard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerSpawner.cs",
               "DocumentMoniker": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\PlayerSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawner.cs",
               "ToolTip": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\PlayerSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T21:03:50.148Z",
+              "WhenOpened": "2025-09-18T21:17:21.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerMoveHard.cs",
-              "DocumentMoniker": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\PlayerMoveHard.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMoveHard.cs",
-              "ToolTip": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\PlayerMoveHard.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMoveHard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HelloRPC.cs",
+              "DocumentMoniker": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\HelloRPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HelloRPC.cs",
+              "ToolTip": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\HelloRPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HelloRPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T20:40:55.537Z",
+              "WhenOpened": "2025-09-18T21:06:36.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ColorNetworked.cs",
+              "DocumentMoniker": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\ColorNetworked.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorNetworked.cs",
+              "ToolTip": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\ColorNetworked.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorNetworked.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T20:08:33.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "InputProvider.cs",
               "DocumentMoniker": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\InputProvider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InputProvider.cs",
               "ToolTip": "C:\\Users\\ALUMNOS\\Documents\\OnlineMultiClass\\Assets\\Scripts\\InputProvider.cs",
               "RelativeToolTip": "Assets\\Scripts\\InputProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwB4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T20:37:52.006Z",
+              "WhenOpened": "2025-09-18T20:07:40.585Z",
               "EditorCaption": ""
             }
           ]
