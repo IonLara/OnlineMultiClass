@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ObjectManager.cs" />
     <Compile Include="Assets\Scripts\InputProvider.cs" />
+    <Compile Include="Assets\Scripts\PlayerShoot.cs" />
     <Compile Include="Assets\Scripts\PlayerMoveHard.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\ColorNetworked.cs" />
