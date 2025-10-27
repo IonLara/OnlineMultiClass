@@ -61,16 +61,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ObjectManager.cs" />
     <Compile Include="Assets\Scripts\InputProvider.cs" />
-    <Compile Include="Assets\Scripts\PlayerShoot.cs" />
+    <Compile Include="Assets\Scripts\DiscordMod.cs" />
     <Compile Include="Assets\Scripts\PlayerMoveHard.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\ColorNetworked.cs" />
-    <Compile Include="Assets\Scripts\HelloRPC.cs" />
     <Compile Include="Assets\Scripts\PlayerSpawner.cs" />
-    <Compile Include="Assets\Scripts\TrafficLight.cs" />
-    <Compile Include="Assets\Scripts\Player MOvement.cs" />
     <Compile Include="Assets\InputActions.cs" />
   </ItemGroup>
   <ItemGroup>

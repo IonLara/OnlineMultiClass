@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Alumnos\\Multi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|c:\\users\\alumnos\\multi\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|c:\\users\\alumnos\\multi\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|C:\\Users\\Alumnos\\Multi\\assets\\scripts\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|C:\\Users\\Alumnos\\Multi\\assets\\scripts\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|C:\\Users\\Alumnos\\Multi\\assets\\scripts\\inputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|C:\\Users\\Alumnos\\Multi\\assets\\scripts\\playermovehard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovehard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|C:\\Users\\Alumnos\\Multi\\assets\\scripts\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|C:\\Users\\Alumnos\\Multi\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|c:\\users\\alumnos\\multi\\assets\\scripts\\discordmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\discordmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|c:\\users\\alumnos\\multi\\assets\\scripts\\playermovehard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594E4E31-484D-3027-BFFE-5226C52D2CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovehard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerShoot.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\PlayerShoot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShoot.cs",
-              "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\PlayerShoot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerShoot.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T15:43:38.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAAAAAAAAAAAA==",
+              "Title": "DiscordMod.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\DiscordMod.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiscordMod.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\DiscordMod.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiscordMod.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T15:34:48.718Z",
+              "WhenOpened": "2025-10-27T15:22:26.938Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TrafficLight.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\TrafficLight.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrafficLight.cs",
-              "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\TrafficLight.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrafficLight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T15:24:28.218Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ObjectManager.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\ObjectManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectManager.cs",
-              "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\ObjectManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ObjectManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T15:22:47.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InputProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\InputProvider.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InputProvider.cs",
-              "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\InputProvider.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InputProvider.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwDIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T15:41:28.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "PlayerMoveHard.cs",
               "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\PlayerMoveHard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMoveHard.cs",
               "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\PlayerMoveHard.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMoveHard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T15:40:40.846Z"
+              "WhenOpened": "2025-10-27T15:17:08.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player MOvement.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\Player MOvement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player MOvement.cs",
-              "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\Player MOvement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player MOvement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T15:10:09.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "PlayerSpawner.cs",
               "DocumentMoniker": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\PlayerSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawner.cs",
               "ToolTip": "C:\\Users\\Alumnos\\Multi\\Assets\\Scripts\\PlayerSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:58:55.665Z"
+              "WhenOpened": "2025-10-13T16:06:29.608Z",
+              "EditorCaption": ""
             }
           ]
         }
