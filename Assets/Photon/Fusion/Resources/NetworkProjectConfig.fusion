@@ -1,7 +1,7 @@
 {
     "Version": 1,
     "TypeId": "NetworkProjectConfig",
-    "PeerMode": 0,
+    "PeerMode": 1,
     "LagCompensation": {
         "Enabled": false,
         "HitboxBufferLengthInMs": 200,
@@ -26,7 +26,9 @@
             "ClientSendIndex": 1,
             "ServerSendIndex": 1
         },
-        "MaxObjectDestroysSentPerPacket": 32
+        "MaxObjectDestroysSentPerPacket": 32,
+        "EnableExperimentalPacketLossRecovery": false,
+        "EnableAdaptivePacketFragmentation": false
     },
     "Network": {
         "ConnectionTimeout": 10.0,
